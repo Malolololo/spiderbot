@@ -112,4 +112,4 @@ client.on('message', message => {
     logChannel.send(`> 👉・Bienvenue à **<@${member.id}>** sur le serveur ! \n> Pour avoir accès à tout le serveur, rend toi dans <#660768541422911530> puis coche la réaction ;) \n> N'oublie pas de lire le règlement et surtout, \n\n**__Bon séjour sur notre serveur !__**`)
   });
 })
-client.login("NjY1NTU5MDI2MDM3MTYyMDE4.XhnYKQ.MjVX46peRBoPHGVvm_d7a56W7Bc")
+client.login("NjY1NTU5MDI2MDM3MTYyMDE4.XlQqyQ.hdUekR_rweYOzjbgtLxwS7mYXFY")
